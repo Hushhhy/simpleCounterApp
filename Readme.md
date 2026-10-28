@@ -6,7 +6,7 @@ Project from the [Scrimba Fullstack Developer Path](https://scrimba.com/fullstac
 
 **🌐 Live demo:** [ScrimCounterApp](https://scrimcounterapp.netlify.app)
 
-![Screenshot of the Simple Counter App](./screenshot.png)
+![Screenshot of the Simple Counter App](./assets/screenshot.png)
 
 ## ✨ Features
 
