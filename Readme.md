@@ -38,12 +38,6 @@ cd simpleCounterApp
 
 Then open `index.html` in your browser. No installation needed.
 
-## 🗺️ Next steps
-
-- Add a button to clear the previous entries
-- Keep the saved entries after a page refresh
-- Show a timestamp next to each saved count
-
 ## 📁 Project structure
 
 ```
