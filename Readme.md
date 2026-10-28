@@ -51,8 +51,9 @@ simpleCounterApp/
 ├── index.html
 ├── style.css
 ├── index.js
-├── station.jpg
-└── screenshot.png
+└── assets
+    ├── station.jpg
+    └── screenshot.png
 ```
 
 ## 🙏 Credits
